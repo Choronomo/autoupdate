@@ -1,0 +1,15 @@
+Copy: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\ProjectDatabase.dll → C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\ProjectDatabase.dll → C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll
+ERROR copying ProjectDatabase.dll: The process cannot access the file 'C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll' because it is being used by another process.
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\ProjectDatabase.pdb → C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.pdb
+Copied: ProjectDatabase.pdb
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\Images\back1.jpeg → C:\Users\izenh\Desktop\Финальная версия 1.1.0\Images\back1.jpeg
+ERROR copying Images\back1.jpeg: The process cannot access the file 'C:\Users\izenh\Desktop\Финальная версия 1.1.0\Images\back1.jpeg' because it is being used by another process.
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\ProjectDatabase.dll → C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll
+ERROR copying ProjectDatabase.dll: The process cannot access the file 'C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll' because it is being used by another process.
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\Images\back1.jpeg → C:\Users\izenh\Desktop\Финальная версия 1.1.0\Images\back1.jpeg
+ERROR copying Images\back1.jpeg: The process cannot access the file 'C:\Users\izenh\Desktop\Финальная версия 1.1.0\Images\back1.jpeg' because it is being used by another process.
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\ProjectDatabase.dll → C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll
+ERROR copying ProjectDatabase.dll: The process cannot access the file 'C:\Users\izenh\Desktop\Финальная версия 1.1.0\ProjectDatabase.dll' because it is being used by another process.
+Preparing: C:\Users\izenh\Desktop\Финальная версия 1.1.0\updates-temp\Images\back1.jpeg → C:\Users\izenh\Desktop\Финальная версия 1.1.0\Images\back1.jpeg
+ERROR copying Images\back1.jpeg: The process cannot access the file 'C:\Users\izenh\Desktop\Финальная версия 1.1.0\Images\back1.jpeg' because it is being used by another process.
