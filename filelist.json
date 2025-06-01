@@ -1,7 +1,6 @@
 {
   "ClosedXML.dll": "ee486cd320cd25de70e9c210b437f4038fb6bf6efef411fd118f99d5c9a14806",
   "ClosedXML.Parser.dll": "d63c63b69ee1eef7dcba04084b36564bf2d3fc7897c63365d4aea1659d3980f8",
-  "copy-log.txt": "ad76fea10239376f053f3e80933fada7676d48677fe4858f475737275b9b7707",
   "CreateFileList.deps.json": "f97491fa2ac3e3a47d7d180d0912e653d818ea7bd263887ad9419277910b979f",
   "CreateFileList.dll": "a312fe0b405adaf2ab45c4cd3b7c043d9d26e048b8f2b753222396b63f87ca24",
   "CreateFileList.exe": "18d7aa64d76adb6b4fd889871e17626c7a71bc114e4f92594d9c4363b827866a",
@@ -12,9 +11,9 @@
   "ExcelNumberFormat.dll": "d7c45b8e4e1027831e2fc8cdf941faf51d28a66feacfcaaa737da73262e7b507",
   "Newtonsoft.Json.dll": "22c649f75fce5be7c7ccda8880473b634ef69ecf33f5d1ab8ad892caf47d5a07",
   "ProjectDatabase.deps.json": "30d111ea74ffa80042a0d28d15eef4a8e8b9b071e03c97193c0ab8d058dea292",
-  "ProjectDatabase.dll": "5465ea889e4e35f55f26b1e5659c34050799034dbf3cdbe41636279a4a0fe9ba",
+  "ProjectDatabase.dll": "a154e76b80e922371f0d28ee216e27b4d8d2b487184021e38a0247f32e078301",
   "ProjectDatabase.exe": "cd4fc0dc8f3bc36cec37ff2c22bf1d8cb9b4fd38e7a0c9fdf8e7e3d47cc343a6",
-  "ProjectDatabase.pdb": "4437590280ce932afe7a52fef479c61955993ba565c43cae6240c2b4260e93d6",
+  "ProjectDatabase.pdb": "0f65fbc8251db5014738c408d1a05d0405b6d68fe9bd481fe6fd04f159b04472",
   "ProjectDatabase.runtimeconfig.json": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
   "projects.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
   "RBush.dll": "bec6872c8b012c7940d1e13ce4b2b8287dfa7eadf330339016f52935f39c3302",
@@ -42,6 +41,5 @@
   "Images/inprogress.png": "b45e9f1a423c7d07cdcbe04d17db4f7d04642ca3105e9fa95557169e85bfb290",
   "Images/parser.png": "df6ce009f7c8a70c66d80d89eb502fc9be9acba65dafc5f462835bbabe65e0e6",
   "Images/vibra.png": "9d37dc780000df07dcea579ffc977e70d8784232fa1977ba77421a4b6415b8f2",
-  "Themes/Styles.xaml": "14a1cfca8a73d1c766de3ee882ab49d71eb1ce47def8512b2a3c68ea21f0eada",
-  "updates-temp/ProjectDatabase.dll": "db40345633e8f0605525eaa698c85f6b3db1224a4d5411beff30566292cdde6a"
+  "Themes/Styles.xaml": "14a1cfca8a73d1c766de3ee882ab49d71eb1ce47def8512b2a3c68ea21f0eada"
 }
